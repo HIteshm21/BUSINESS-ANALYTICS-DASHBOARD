@@ -62,9 +62,9 @@ The dashboard is built for data analysts, business users, and stakeholders to ma
 
 Below is a real screenshot of the running dashboard:
 
-<p align="center"> <img src="assets/dashboard_home.png" width="80%"> </p>
+<p align="center"> <img src="assets/dasfboard_home.png" width="80%"> </p>
 
-(Replace the file name if your screenshot has another name)
+
 
 ⚙️ Installation & Running Locally
 1️⃣ Clone the repository
