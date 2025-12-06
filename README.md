@@ -63,10 +63,9 @@ The dashboard is built for data analysts, business users, and stakeholders to ma
 Below is a real screenshot of the running dashboard:
 
 <p align="center"> <img src="assets/dasfboard_home.png.png" width="80%"> </p>
-<p align="center"> <img src="assets/dashboard2_home.png.png" width="80%"> </p>
-<p align="center"> <img src="assets/dashboard3_home.png.png" width="80%"> </p>
-<p align="center"> <img src="assets/dashboard4_home.png.png" width="80%"> </p>
-<p align="center"> <img src="assets/dashboard5_home.png.png" width="80%"> </p>
+
+
+
 
 
 
