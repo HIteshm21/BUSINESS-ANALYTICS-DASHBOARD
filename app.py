@@ -217,3 +217,4 @@ if "Customer Name" in df.columns and sales_col in df.columns:
     )
     st.dataframe(top_cust, use_container_width=True)
 
+
