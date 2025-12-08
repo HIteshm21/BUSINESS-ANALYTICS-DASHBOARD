@@ -1,26 +1,26 @@
-🔥 BUSINESS ANALYTICS DASHBOARD
+ BUSINESS ANALYTICS DASHBOARD
 
 A modern, interactive analytics dashboard built with Python, Streamlit, and Plotly
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Streamlit-Framework-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20Analytics-Business%20Insights-yellow?style=for-the-badge"> </p>
-✨ Overview
+** Overview **
 
 This project is an interactive Business Analytics Dashboard that provides insights using:
 
-✔ Sales Analysis
-✔ Profit Breakdown
-✔ Category & Segment Trends
-✔ Region-Level Insights
-✔ Interactive Plotly Visualizations
+*Sales Analysis
+* Profit Breakdown
+* Category & Segment Trends
+* Region-Level Insights
+* Interactive Plotly Visualizations
 
 The dashboard is built for data analysts, business users, and stakeholders to make data-driven decisions with ease.
 
-🚀 Live Demo (Coming Soon)
+** Live Demo (Coming Soon)
 
 (Will be added after deployment to Streamlit Cloud)
 
-🎯 Features
-📌 1. Dynamic Filters
+* Features
+ 1. Dynamic Filters
 
 1] Date Range Picker
 
@@ -30,7 +30,7 @@ The dashboard is built for data analysts, business users, and stakeholders to ma
 
 4] Segment Filter
 
-📌 2. KPI Metrics
+2. KPI Metrics
 
 1] Total Sales
 
@@ -38,7 +38,7 @@ The dashboard is built for data analysts, business users, and stakeholders to ma
 
 3] Average Discount
 
-📌 3. Interactive Visualizations
+  3. Interactive Visualizations
 
 1] Bar Charts
 
@@ -48,17 +48,17 @@ The dashboard is built for data analysts, business users, and stakeholders to ma
 
 4] Heatmaps
 
-📌 4. Data Preview
+   4. Data Preview
 
 1] Easily inspect raw data with a high-quality table.
 
-📁 Project Structure
+** Project Structure
 │── dashboard_app.py          # Main Streamlit app
 │── Sample-Superstore.csv     # Dataset
 │── assets/                   # Screenshots & project media
 │── README.md                 # Project documentation
 
-📸 Dashboard Screenshot
+ ** Dashboard Screenshot
 
 Below is a real screenshot of the running dashboard:
 
@@ -69,18 +69,18 @@ Below is a real screenshot of the running dashboard:
 
 
 
-⚙️ Installation & Running Locally
-1️⃣ Clone the repository
+   * Installation & Running Locally
+1️ * Clone the repository
 git clone https://github.com/Hiteshmadel21/BUSINESS-ANALYTICS-DASHBOARD.git
 cd BUSINESS-ANALYTICS-DASHBOARD
 
-2️⃣ Install required packages
+2️  * Install required packages
 pip install streamlit plotly pandas
 
-3️⃣ Run the dashboard
+3️  * Run the dashboard
 streamlit run dashboard_app.py
 
-🌐 Deployment Instructions (Optional)
+** Deployment Instructions (Optional)
 
 You can deploy this dashboard using Streamlit Cloud:
 
@@ -94,7 +94,7 @@ You can deploy this dashboard using Streamlit Cloud:
 
 5] Click Deploy
 
-🧠 Skills Demonstrated
+*** Skills Demonstrated
 
 1] Python Programming
 
@@ -110,7 +110,7 @@ You can deploy this dashboard using Streamlit Cloud:
 
 7] Git & GitHub
 
-⭐ Support the Project
+** Support the Project
 
-If you like this project, please give it a star ⭐ on GitHub.
+If you like this project, please give it a star *** on GitHub.
 It helps the repository grow and motivates future improvements.
